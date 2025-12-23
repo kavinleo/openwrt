@@ -20,6 +20,7 @@ linksys,mr7500)
 	ubootenv_add_mtd "u_env" "0x0" "0x40000" "0x20000"
 	;;
 netgear,wax214|\
+zn,m2|\
 netgear,wax610|\
 netgear,wax610y|\
 tplink,eap610-outdoor|\
